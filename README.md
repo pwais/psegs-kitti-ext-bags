@@ -10,4 +10,4 @@ were generated using `psegs-ros-util`.  These files are released under
 the same license as KITTI.
 
 Try playing one of the bags in [Webviz](https://webviz.io/). Click for video:
-<center><<a href="demo.mp4"><img src="demo.jpg" width=800 /></a></center>
+<center><a href="demo.m4v"><img src="demo.jpg" width=800 /></a></center>
