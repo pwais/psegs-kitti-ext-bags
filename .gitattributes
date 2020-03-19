@@ -1,0 +1,2 @@
+*.bag filter=lfs diff=lfs merge=lfs -text
+segment_id=kitti-tracking-train-0000.bag filter=lfs diff=lfs merge=lfs -text
