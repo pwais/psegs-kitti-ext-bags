@@ -9,5 +9,7 @@ Benchmark data.  The files are a demo of the
 were generated using `psegs-ros-util`.  These files are released under
 the same license as KITTI.
 
+See also bag on Google Drive: https://drive.google.com/drive/folders/1SjrmIYYbYGB_3BrlSnm2HbH49JRVXMt7?usp=sharing 
+
 Try playing one of the bags in [Webviz](https://webviz.io/). Click for video:
 <center><a href="demo.m4v"><img src="demo.jpg" width=800 /></a></center>
